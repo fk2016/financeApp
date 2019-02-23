@@ -1,5 +1,5 @@
 How can i install this?
-npm install and npm link
+execute npm install and npm link
 
 Execute for ios
 yarn ios
